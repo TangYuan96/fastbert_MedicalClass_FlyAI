@@ -1,0 +1,111 @@
+ nohup: ignoring input
+/home/qxm/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.flyai.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+('医疗文本分类', '数据已经下载到', './data/input/MedicalClass', '文件夹中。')
+('本地训练提供', '1%', '的数据，线上训练会提供全量数据。')
+('数据集详细信息请访问:', '数据集来源网络')
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.408 seconds.
+Prefix dict has been built successfully.
+=*=数据处理完成=*=
+CurEpoch: 0 | CurBatch: 0| Loss: 5.480592250823975| ACC: 0.0625
+CurEpoch: 0 | CurBatch: 100| Loss: 5.394023895263672| ACC: 0.09375
+CurEpoch: 0 | CurBatch: 200| Loss: 5.425273895263672| ACC: 0.0625
+CurEpoch: 0 | CurBatch: 300| Loss: 5.362773895263672| ACC: 0.125
+CurEpoch: 0 | CurBatch: 400| Loss: 5.300273895263672| ACC: 0.1875
+CurEpoch: 0 | CurBatch: 500| Loss: 5.362773895263672| ACC: 0.125
+CurEpoch: 0 | CurBatch: 600| Loss: 5.300273895263672| ACC: 0.1875
+CurEpoch: 0 | CurBatch: 700| Loss: 5.26902437210083| ACC: 0.21875
+CurEpoch: 0 | CurBatch: 800| Loss: 5.20652437210083| ACC: 0.28125
+CurEpoch: 0 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 1 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 1 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 1 | CurBatch: 200| Loss: 5.425273895263672| ACC: 0.0625
+CurEpoch: 1 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 1 | CurBatch: 400| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 1 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 1 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 1 | CurBatch: 700| Loss: 5.269023895263672| ACC: 0.21875
+CurEpoch: 1 | CurBatch: 800| Loss: 5.20652437210083| ACC: 0.28125
+CurEpoch: 1 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 2 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 2 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 2 | CurBatch: 200| Loss: 5.425273895263672| ACC: 0.0625
+CurEpoch: 2 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 2 | CurBatch: 400| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 2 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 2 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 2 | CurBatch: 700| Loss: 5.269023418426514| ACC: 0.21875
+CurEpoch: 2 | CurBatch: 800| Loss: 5.206523895263672| ACC: 0.28125
+CurEpoch: 2 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 3 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 3 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 3 | CurBatch: 200| Loss: 5.425273418426514| ACC: 0.0625
+CurEpoch: 3 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 3 | CurBatch: 400| Loss: 5.300273895263672| ACC: 0.1875
+CurEpoch: 3 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 3 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 3 | CurBatch: 700| Loss: 5.269023418426514| ACC: 0.21875
+CurEpoch: 3 | CurBatch: 800| Loss: 5.206523895263672| ACC: 0.28125
+CurEpoch: 3 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 4 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 4 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 4 | CurBatch: 200| Loss: 5.425273418426514| ACC: 0.0625
+CurEpoch: 4 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 4 | CurBatch: 400| Loss: 5.300273895263672| ACC: 0.1875
+CurEpoch: 4 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 4 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 4 | CurBatch: 700| Loss: 5.269023418426514| ACC: 0.21875
+CurEpoch: 4 | CurBatch: 800| Loss: 5.2065229415893555| ACC: 0.28125
+CurEpoch: 4 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 5 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 5 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 5 | CurBatch: 200| Loss: 5.425273418426514| ACC: 0.0625
+CurEpoch: 5 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 5 | CurBatch: 400| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 5 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 5 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 5 | CurBatch: 700| Loss: 5.269023418426514| ACC: 0.21875
+CurEpoch: 5 | CurBatch: 800| Loss: 5.2065229415893555| ACC: 0.28125
+CurEpoch: 5 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 6 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 6 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 6 | CurBatch: 200| Loss: 5.425273418426514| ACC: 0.0625
+CurEpoch: 6 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 6 | CurBatch: 400| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 6 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 6 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 6 | CurBatch: 700| Loss: 5.269023418426514| ACC: 0.21875
+CurEpoch: 6 | CurBatch: 800| Loss: 5.2065229415893555| ACC: 0.28125
+CurEpoch: 6 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 7 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 7 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 7 | CurBatch: 200| Loss: 5.425273418426514| ACC: 0.0625
+CurEpoch: 7 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 7 | CurBatch: 400| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 7 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 7 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 7 | CurBatch: 700| Loss: 5.269023418426514| ACC: 0.21875
+CurEpoch: 7 | CurBatch: 800| Loss: 5.2065229415893555| ACC: 0.28125
+CurEpoch: 7 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 8 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 8 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 8 | CurBatch: 200| Loss: 5.425273418426514| ACC: 0.0625
+CurEpoch: 8 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 8 | CurBatch: 400| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 8 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 8 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 8 | CurBatch: 700| Loss: 5.269023418426514| ACC: 0.21875
+CurEpoch: 8 | CurBatch: 800| Loss: 5.2065229415893555| ACC: 0.28125
+CurEpoch: 8 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
+CurEpoch: 9 | CurBatch: 0| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 9 | CurBatch: 100| Loss: 5.394023418426514| ACC: 0.09375
+CurEpoch: 9 | CurBatch: 200| Loss: 5.425273418426514| ACC: 0.0625
+CurEpoch: 9 | CurBatch: 300| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 9 | CurBatch: 400| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 9 | CurBatch: 500| Loss: 5.362773418426514| ACC: 0.125
+CurEpoch: 9 | CurBatch: 600| Loss: 5.300273418426514| ACC: 0.1875
+CurEpoch: 9 | CurBatch: 700| Loss: 5.269023418426514| ACC: 0.21875
+CurEpoch: 9 | CurBatch: 800| Loss: 5.2065229415893555| ACC: 0.28125
+CurEpoch: 9 | CurBatch: 900| Loss: 5.331523418426514| ACC: 0.15625
